@@ -9,12 +9,13 @@ body {
     background-size: cover;
     background-attachment: fixed;
     font-family: "Lexend", sans-serif;
+    width: 100%
 }
 header {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 100vw;
+    width: 100%;
     background-color: rgba(0, 0, 0, 0.5); 
 }
 header img {
@@ -76,7 +77,7 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 100vw;
+    width: 100%;
     background-color: rgba(0, 0, 0, 0.5); 
     padding: 20px 0;
 }
