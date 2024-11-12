@@ -5,7 +5,8 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url(/static/lam01.jpg);
+    /* background-image: url(/static/lam01.jpg); */
+    background-image: url(https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/news/2024/04_08_stj/stj_01.jpg);
     background-size: cover;
     background-attachment: fixed;
     font-family: "Lexend", sans-serif;
