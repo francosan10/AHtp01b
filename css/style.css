@@ -5,11 +5,11 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url(./static/lam01.jpg);
+    background-image: url(/static/lam01.jpg);
     background-size: cover;
     background-attachment: fixed;
     font-family: "Lexend", sans-serif;
-    width: 100%
+    width: 100%;
 }
 header {
     display: flex;
